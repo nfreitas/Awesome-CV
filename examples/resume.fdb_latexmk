@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1581249798 "cv.tex" "cv.pdf" "cv" 1581249798
+["pdflatex"] 1581244848 "resume.tex" "resume.pdf" "resume" 1581244848
   "/dev/null" 1581244119 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1572595918 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1572595918 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -32,10 +32,10 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1572595918 55589 34128738f682d033422ca125f82e5d62 ""
   "/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty" 1572592815 5689 1bfa68243e89a54479e7d0580773c57e ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1572595918 33301 a3134070eacafb10b1f371612ce2650d ""
-  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1581245514 8044938 78c07f27805cf491dccb2be4a1c955ac ""
-  "awesome-cv.cls" 1581249478 26474 15c47f9916f64f0c91bd7d700edfc6fe ""
-  "cv.aux" 1581249778 628 8e762e3fa6240f6f8fe2e9db6cd33e0e ""
-  "cv.tex" 1581249798 3532 ff5651649f285f02ac4c60fbe9d9d164 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1573914467 8044940 938d5b7cff3798fd09fdcfb82f4a7b21 ""
+  "awesome-cv.cls" 1581244803 26474 15c47f9916f64f0c91bd7d700edfc6fe ""
+  "resume.aux" 1581244848 8 a94a2480d3289e625eea47cd1b285758 ""
+  "resume.tex" 1581244847 3537 bac21b8e7ec32f4656a9e203016fed96 ""
   (generated)
-  "cv.pdf"
-  "cv.log"
+  "resume.log"
+  "resume.pdf"
