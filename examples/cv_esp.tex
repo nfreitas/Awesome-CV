@@ -29,9 +29,9 @@
 % Color for highlights
 % Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
-\colorlet{awesome}{awesome-red}
+%\colorlet{awesome}{awesome-nephritis}
 % Uncomment if you would like to specify your own color
-% \definecolor{awesome}{HTML}{CA63A8}
+\definecolor{awesome}{HTML}{12008a}
 
 % Colors for text
 % Uncomment if you would like to specify your own color
@@ -46,7 +46,7 @@
 \definecolor{lighttext}{HTML}{000000}
 
 % Set false if you don't want to highlight section with awesome color
-\setbool{acvSectionColorHighlight}{true}
+\setbool{acvSectionColorHighlight}{false}
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
@@ -58,7 +58,7 @@
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo{./examples/profile.png}
 \name{Jose Nahuel}{Freitas}
-\position{PhD in Physics. Researcher.}
+\position{Doctor en Física. Investigador.}
 % \address{Rue de Vianden 14, Luxembourg, Luxembourg}
 
 \mobile{(+352) 661035384}
@@ -86,7 +86,7 @@
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
-  {\today}
+  {}
   {Jose Nahuel Freitas~~~·~~~Curriculum Vitae}
   {\thepage}
 
@@ -94,14 +94,14 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-
-\input{cv/skills.tex}
-\input{cv/education.tex}
-%\input{cv/teaching.tex}
-\input{cv/experience.tex}
-\input{cv/scientific_background.tex}
-\input{cv/conferences.tex}
-\input{cv/mentoring.tex}
+\input{cv_esp/education.tex}
+\input{cv_esp/teaching.tex}
+\input{cv_esp/mentoring.tex}
+\input{cv_esp/experience.tex}
+\newpage
+\input{cv_esp/scientific_background.tex}
+\input{cv_esp/conferences.tex}
+\input{cv_esp/skills.tex}
 %\input{cv/extracurricular.tex}
 %\input{cv/honors.tex}
 %\input{cv/presentation.tex}

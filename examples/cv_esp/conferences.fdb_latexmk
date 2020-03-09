@@ -1,0 +1,9 @@
+# Fdb version 3
+["pdflatex"] 1583499035 "conferences.tex" "conferences.pdf" "conferences" 1583499035
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1572595918 33301 a3134070eacafb10b1f371612ce2650d ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1581245514 8044938 78c07f27805cf491dccb2be4a1c955ac ""
+  "conferences.aux" 1583499035 8 a94a2480d3289e625eea47cd1b285758 ""
+  "conferences.tex" 1583499034 2264 a31e1f1c4a92845fd577a4cf0054e236 ""
+  (generated)
+  "conferences.pdf"
+  "conferences.log"
